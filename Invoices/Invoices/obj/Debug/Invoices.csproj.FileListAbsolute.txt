@@ -1,0 +1,30 @@
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\bin\Debug\Invoices.exe.config
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\bin\Debug\Invoices.exe
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\bin\Debug\Invoices.pdb
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.AssemblyReference.cache
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\obj\Debug\Invoices.f_Invoices.resources
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\obj\Debug\Invoices.Properties.Resources.resources
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.GenerateResource.cache
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.CoreCompileInputs.cache
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\obj\Debug\Invoices.exe
+C:\Users\4800643287\Documents\0_DATC\2420_CSharpII\Final Project\Invoices\Invoices\obj\Debug\Invoices.pdb
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\bin\Debug\Invoices.exe.config
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\bin\Debug\Invoices.exe
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\bin\Debug\Invoices.pdb
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\obj\Debug\Invoices.f_Invoices.resources
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\obj\Debug\Invoices.Properties.Resources.resources
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.GenerateResource.cache
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\obj\Debug\Invoices.exe
+C:\Users\Family\Documents\1 Dad\Software Training\DATC\2420\Final Project\Invoices\Invoices\obj\Debug\Invoices.pdb
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\bin\Debug\Invoices.exe.config
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\bin\Debug\Invoices.exe
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\bin\Debug\Invoices.pdb
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\obj\Debug\Invoices.f_Invoices.resources
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\obj\Debug\Invoices.Properties.Resources.resources
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.GenerateResource.cache
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\obj\Debug\Invoices.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\obj\Debug\Invoices.exe
+C:\Users\Family\Documents\1 Dad\Software Training\0_DATC\2420_Csharp2\Final Project\Invoices\Invoices\obj\Debug\Invoices.pdb
